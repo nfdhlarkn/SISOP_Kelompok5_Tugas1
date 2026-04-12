@@ -34,19 +34,19 @@
 
 
 # Tugas Kelompok Sistem Operasi
-[span_0](start_span)Membangun Simulator Sederhana Sistem Operasi: CPU Scheduling dan Deadlock Handling[span_0](end_span)
+(start_span)Membangun Simulator Sederhana Sistem Operasi: CPU Scheduling dan Deadlock Handling[span_0](end_span)
 
 ## Deskripsi Tugas
-[span_1](start_span)Program sederhana ini merupakan bentuk simulasi berbasis console/CLI yang memiliki 2 fitur utama[span_1](end_span):
+(start_span)Program sederhana ini merupakan bentuk simulasi berbasis console/CLI yang memiliki 2 fitur utama(end_span):
 
 ### Bagian A — Simulasi CPU Scheduling
-[span_2](start_span)Program dapat mensimulasikan penjadwalan proses menggunakan algoritma berikut[span_2](end_span):
-* [span_3](start_span)FCFS (First Come First Serve)[span_3](end_span)
-* [span_4](start_span)SJF (Shortest Job First) non-preemptive[span_4](end_span)
-* [span_5](start_span)Round Robin[span_5](end_span)
-* [span_6](start_span)Priority Scheduling (Opsional)[span_6](end_span)
+(start_span)Program dapat mensimulasikan penjadwalan proses menggunakan algoritma berikut(end_span):
+* (start_span)FCFS (First Come First Serve)(end_span)
+* (start_span)SJF (Shortest Job First) non-preemptive(end_span)
+* (start_span)Round Robin(end_span)
+* (start_span)Priority Scheduling (Opsional)(end_span)
 
-[span_7](start_span)Setiap proses minimal menerima input berupa ID Proses, Arrival Time, Burst Time, Priority, dan Quantum[span_7](end_span). Output yang ditampilkan meliputi:
+(start_span)Setiap proses minimal menerima input berupa ID Proses, Arrival Time, Burst Time, Priority, dan Quantum(end_span). Output yang ditampilkan meliputi:
 * [span_8](start_span)Urutan eksekusi proses[span_8](end_span)
 * [span_9](start_span)Gantt Chart sederhana (teks)[span_9](end_span)
 * [span_10](start_span)Waiting Time tiap proses[span_10](end_span)
@@ -69,8 +69,8 @@ Simulasi ini menggunakan salah satu pendekatan berikut:
 
 
 ## Luaran yang Dikumpulkan
-* [span_24](start_span)Source code lengkap yang dapat dijalankan tanpa error[span_24](end_span)
-* [span_25](start_span)Laporan singkat (5–8 halaman)[span_25](end_span)
-* [span_26](start_span)Video / Demo singkat (durasi 5–7 menit)[span_26](end_span)
-* [span_27](start_span)Presentasi (maksimal 7 slide)[span_27](end_span)
+* (start_span)Source code lengkap yang dapat dijalankan tanpa error(end_span)
+* (start_span)Laporan singkat (5–8 halaman)(end_span)
+* (start_span)Video / Demo singkat (durasi 5–7 menit)(end_span)
+* (start_span)Presentasi (maksimal 7 slide)(end_span)
 
