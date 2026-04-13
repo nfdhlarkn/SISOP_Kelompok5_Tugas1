@@ -33,7 +33,7 @@
 
 
 # Tugas Kelompok Sistem Operasi
-Membangun Simulator Sederhana Sistem Operasi: CPU Scheduling dan Deadlock Handling.
+Membangun Simulator Sederhana Sistem Operasi CPU Scheduling dan Deadlock Handling.
 
 ## Deskripsi Tugas
 Program sederhana ini merupakan bentuk simulasi berbasis console/CLI yang memiliki 2 fitur utama:
